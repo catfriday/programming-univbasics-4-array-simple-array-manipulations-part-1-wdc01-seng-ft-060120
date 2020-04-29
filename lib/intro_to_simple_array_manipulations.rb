@@ -12,5 +12,5 @@ end
 
 def using_pop (array) 
 @continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
- @continents= @continents.pop(7) 
+ @continents= @continents.pop(6) 
 end 
