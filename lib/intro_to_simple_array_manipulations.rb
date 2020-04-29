@@ -9,3 +9,8 @@ end
 def using_pop(array, string)
   array.pop(string)
 end
+
+def array 
+@continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+ @continents= @continents.pop 
+end 
