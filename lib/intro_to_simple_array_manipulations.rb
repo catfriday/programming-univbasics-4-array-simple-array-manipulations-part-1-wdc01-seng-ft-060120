@@ -25,4 +25,12 @@ def using_shift(array)
   @my_favorite_cities.shift
 end
 
+def shift_with_args(array)
+  
+
+end 
+
+
+
+
 
