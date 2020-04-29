@@ -22,7 +22,7 @@ end
 
 def using_unshift(array)
   @my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
-  @my_favorite_cities.shift
+  @my_favorite_cities.unshift
 end
 
 
